@@ -7,6 +7,14 @@
 	text-indent: 0;
 }
 
+#chapter-39 div header p{
+	text-align: center;
+	text-indent: 0;
+	font-variant: small-caps;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
