@@ -46,37 +46,39 @@
 		<meta property="term" refines="#subject-5">sh2009117015</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008103211</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">After her marriage to a Yorkshire landowner, a young woman is oppressed by the consequences of a youthful indiscretion.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/m-e-braddon"&gt;Mary Elizabeth Braddon&lt;/a&gt; was a prolific writer of what came to be called “sensation fiction” in the mid-Victorian era. &lt;i&gt;Aurora Floyd&lt;/i&gt; was published in 1863 after serialization in &lt;i&gt;Temple Bar&lt;/i&gt; magazine. This came only a year after Braddon first achieved wide popularity with her best-selling novel &lt;a href="https://standardebooks.org/ebooks/m-e-braddon/lady-audleys-secret"&gt;Lady Audley’s Secret&lt;/a&gt;, published in book form in 1862. &lt;i&gt;Aurora Floyd&lt;/i&gt; did not achieve the same level of popularity, but was nevertheless well received. It was almost immediately turned into a stage play, and was the basis of a short silent film in 1912 produced by an American director.&lt;/p&gt;
+			&lt;p&gt;The novel focuses on its eponymous heroine, Aurora Floyd, the daughter of a wealthy banker, who in his late 40s scandalously married a poor actress from a northern county. His young wife died not long after Aurora’s birth, and her daughter was raised by her grieving father, who idolises the child. Aurora thus grows up spoiled and somewhat headstrong. After she returns from the Parisian finishing school to which she was sent at the age of seventeen, it is clear that something occurred there which has led to a dark cloud hanging over her and which has caused her father immense grief. When a few years later she is courted and then marries, the secrets of what happened in her teenage years eventually come to the surface again, leading to tragedy and a terrible suspicion hanging over her.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/48020</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/010936384</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Aurora_Floyd</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/m-e-braddon_aurora-floyd</meta>
 		<dc:creator id="author">M. E. Braddon</dc:creator>
 		<meta property="file-as" refines="#author">Braddon, M. E.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Mary Elizabeth Braddon</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/M._E._Braddon</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79066474</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Henry Scott Tuke</dc:contributor>
+		<meta property="file-as" refines="#artist">Tuke, Henry Scott</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henry_Scott_Tuke</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr89015739</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Clare Graham</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Graham, Clare</meta>
+		<dc:contributor id="transcriber-2">Marc D'Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">D'Hooghe, Marc</meta>
+		<meta property="se:url.homepage" refines="#transcriber-2">http://www.freeliterature.org</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://thegriggs.org/david/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
