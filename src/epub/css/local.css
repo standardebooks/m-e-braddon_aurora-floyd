@@ -7,12 +7,9 @@
 	text-indent: 0;
 }
 
-#chapter-39 div header p{
+[epub|type~="afterword"] header{
 	font-variant: small-caps;
-	margin-bottom: 0.5em;
-	margin-top: 0.5em;
-	text-align: center;
-	text-indent: 0;
+	margin: 3em 0;
 }
 
 footer{
