@@ -8,11 +8,11 @@
 }
 
 #chapter-39 div header p{
+	font-variant: small-caps;
+	margin-bottom: 0.5em;
+	margin-top: 0.5em;
 	text-align: center;
 	text-indent: 0;
-	font-variant: small-caps;
-	margin-top: 0.5em;
-	margin-bottom: 0.5em;
 }
 
 footer{
