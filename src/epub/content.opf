@@ -57,7 +57,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/48020</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/010936384</dc:source>
-		<meta property="se:word-count">186328</meta>
+		<meta property="se:word-count">186327</meta>
 		<meta property="se:reading-ease.flesch">66.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Aurora_Floyd</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/m-e-braddon_aurora-floyd</meta>
