@@ -58,7 +58,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/48020</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/010936384</dc:source>
-		<meta property="schema:wordCount">183674</meta>
+		<meta property="schema:wordCount">183673</meta>
 		<meta property="schema:educationalLevel">66.17</meta>
 		<link href="https://en.wikipedia.org/wiki/Aurora_Floyd" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
