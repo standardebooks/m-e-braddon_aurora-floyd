@@ -49,7 +49,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008103211</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>After her marriage to a Yorkshire landowner, a young woman is oppressed by the consequences of a youthful indiscretion.</dc:abstract>
+		<meta property="schema:abstract">After her marriage to a Yorkshire landowner, a young woman is oppressed by the consequences of a youthful indiscretion.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Aurora Floyd&lt;/i&gt; focuses on its eponymous heroine, Aurora Floyd, the daughter of a wealthy banker, who in his late forties scandalously married a poor actress from a northern county. His young wife died not long after Aurora’s birth, and her daughter was raised by her grieving father, who idolizes the child. Aurora thus grows up spoiled and somewhat headstrong.&lt;/p&gt;
 			&lt;p&gt;After she returns from a Parisian finishing school, it is clear that something happened to her there which has caused a dark cloud to hang over her, causing her father immense grief. When a few years later she is courted and then marries, the secrets of what happened in her teenage years eventually come to light, leading to tragedy.&lt;/p&gt;
